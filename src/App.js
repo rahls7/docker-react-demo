@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1>Bye there</h1>
+          <h1>Hi from Feature branch</h1>
         </header>
       </div>
     );
